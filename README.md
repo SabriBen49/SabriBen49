@@ -44,8 +44,9 @@ A web app used by a lawyer and his secretary in Tunisia to manage court hearings
 **Stack:** Angular, Spring Boot, PostgreSQL, deployed on Netlify, Render and Neon.
 The source code is private (client work), but you can see the full presentation here: **[hearings-showcase](https://github.com/SabriBen49/hearings-showcase)**
 
-### SuperBall — World Cup 2026 prediction game
-A game where users predict World Cup 2026 matches. This was an academic project built with a teammate during my 2nd year (Integration Project course).
+### SuperBall — World Cup 2026 prediction game (team project)
+A game where users predict World Cup 2026 matches. This was an academic team project that I built **together with a classmate** during my 2nd year (Integration Project course).
+
 **Stack:** Angular, Spring Boot, PostgreSQL.
 **Code:** [Backend](https://github.com/SabriBen49/SuperBall_Backend) · [Frontend](https://github.com/SabriBen49/SuperBall_Frontend)
 
